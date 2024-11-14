@@ -1,4 +1,4 @@
-#Twitter Sentiment Analysis Using Logistic Regression
+Twitter Sentiment Analysis Using Logistic Regression
 
 Project Description:
 This project is a Twitter sentiment analysis model designed to classify tweets as either positive or negative, providing insights into public opinion across various topics. By processing Twitter data, we developed a machine learning model capable of capturing and analyzing social sentiment.
